@@ -1,0 +1,27 @@
+#topstripe{
+background-color: #9C2318;
+height :1em;
+}
+
+
+ul.buttonbar{
+float:right;
+list-style-type:none;
+text-align: center;
+margin-top:1.5em;
+margin-bottom:0;
+
+}
+
+#mast{
+color:#606060;
+margin-bottom:10px;
+}
+
+div#gnav-home{
+color:orange;
+}
+
+hr#gnav-top{
+margin:0;
+}

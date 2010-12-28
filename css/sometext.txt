@@ -1,0 +1,21 @@
+Brings tools and techniques from physics and computer science to bear on questions of biology and neuroscience. 
+
+
+List of people to link to:
+Aaron SChulman
+Franziska Graph
+Daniel Jacobs?
+Benjamin Tseng
+Graham Webster
+Alkema Lab
+Samuel LAb
+
+Speeches:
+Graduation Speech
+Ethan Townsend Memorial Speech
+
+Software:
+Zotero Bug Fix
+InnoBox Devices
+MindControl
+MindControl-analysis
