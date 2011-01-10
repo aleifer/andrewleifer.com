@@ -28,24 +28,21 @@ color: #4F0A04;
 }
 
 
-div#gnav-home{
-color:orange;
+h2{
+color: #4F0A04;
 }
-
-hr#gnav-top{
-margin:0;
-}
-
-.buttonbar a{
-text-decoration: none;
-color:#222222;
-}
-
 
 a{
 color:#063469;
 text-decoration:none;
 }
+
+
+.buttonbar a{
+color:#222222;
+}
+
+
 
 a:hover{
 text-decoration: underline;
@@ -53,11 +50,6 @@ color: #4F0A04;
 }
 
 
-.buttonbar a:hover{
-text-decoration: underline;
-color: #4F0A04;
-
-}
 
 
 .box{
