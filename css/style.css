@@ -13,10 +13,20 @@ margin-bottom:0;
 
 }
 
-#mast{
+#mast {
 color:#606060;
 margin-bottom:10px;
 }
+
+#mast a{
+color:#606060;
+text-decoration:none;
+}
+
+#mast a:hover{
+color: #4F0A04;
+}
+
 
 div#gnav-home{
 color:orange;
@@ -24,4 +34,37 @@ color:orange;
 
 hr#gnav-top{
 margin:0;
+}
+
+.buttonbar a{
+text-decoration: none;
+color:#222222;
+}
+
+
+a{
+color:#063469;
+text-decoration:none;
+}
+
+a:hover{
+text-decoration: underline;
+color: #4F0A04;
+}
+
+
+.buttonbar a:hover{
+text-decoration: underline;
+color: #4F0A04;
+
+}
+
+
+.box{
+/* brighter blue */
+background-color:#DFEAF7;
+/* brigther red */
+background-color:#D9D7D7;
+/* pale red */
+background-color:#F2F0F0;
 }
