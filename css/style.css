@@ -50,7 +50,9 @@ color: #4F0A04;
 }
 
 
-
+body{
+text-align:justify;
+}
 
 .box{
 /* brighter blue */
@@ -59,4 +61,19 @@ background-color:#DFEAF7;
 background-color:#D9D7D7;
 /* pale red */
 background-color:#F2F0F0;
+}
+
+
+hr.bigspace{
+padding-top:8em;
+background-color:white;
+}
+
+span#cc{
+font-weight:bolder;
+}
+
+a.cc{
+color:#606060;
+
 }
