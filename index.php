@@ -12,7 +12,8 @@ This website serves as a repository for my research,  writings and works. Feel f
 
 <hr class="space">
 <h2>News</h2>
-My work on the <a href="http://colbert.physics.harvard.edu">CoLBeRT</a> system, an instrument to control neurons of a worm as it moves, got published today in <i>Nature Methods</i>. It got a bit of press at <a href="http://www.sciencenews.org/view/generic/id/68860/description/Making_a_worm_do_more_than_squirm" target="_blank"><i>Science News</i></a> and <a href="http://www.scientificamerican.com/article.cfm?id=single-worm-neurons" target="_blank">Scientific American</i></a>.
+<h4>16 January 2011</h4>
+My work on the <a href="http://colbert.physics.harvard.edu">CoLBeRT</a> system, an instrument to control neurons of a worm as it moves, got published today in <i>Nature Methods</i>. It got a bit of press at <a href="http://www.sciencenews.org/view/generic/id/68860/description/Making_a_worm_do_more_than_squirm" target="_blank"><i>Science News</i></a> and <a href="http://www.scientificamerican.com/article.cfm?id=single-worm-neurons" target="_blank"><i>Scientific American</i></a>.
 
 </div>
 
