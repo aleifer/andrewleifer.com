@@ -37,6 +37,9 @@ text-decoration:none;
 color: #4F0A04;
 }
 
+h1, h2, h3, h4 {
+text-align:left;
+}
 
 h2{
 color: #4F0A04;
@@ -62,9 +65,13 @@ color: #4F0A04;
 
 body{
 text-align:justify;
+font-size:90%;
 }
 
 .box{
+
+text-align:left;
+
 /* brighter blue */
 background-color:#DFEAF7;
 /* gray */
@@ -93,4 +100,7 @@ font-weight:bolder;
 a.cc{
 color:#606060;
 
+}
+p{
+padding-top:1em;
 }
