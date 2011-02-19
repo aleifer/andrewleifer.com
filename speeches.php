@@ -2,15 +2,16 @@
 $title="Speeches";
 include("header.inc");
 ?>
+
+	<hr class="space">
 <div class="span-16 append-1">
 	
-	<hr class="space">
 	<h2><a name="lowell2011"></a>A Beautiful Experiment, Lowell House Speech Project, 3 February 2011</h2>
 	
 	<iframe class="video" src="http://player.vimeo.com/video/19551136?color=ff9933" width="400" height="225" frameborder="0"></iframe>
 	
 	
-	<p>Thank you all for coming and listening, and thank you especially to our student organizers and 
+	<p class="firstPar">Thank you all for coming and listening, and thank you especially to our student organizers and 
 	to Sandy for helping me with this speech. </p>
 	
 	<p>My name is Andy Leifer. I am a tutor here. And I am also a scientist. A few years ago, I read 
@@ -91,7 +92,7 @@ include("header.inc");
 	
 
 	<h2><a name="ethan"></a>Ethan Townsend Memorial Service, Ashland Oregon, 20 September 2009</h2>
-	<p>Ethan and I met during our freshman year in the dorms at Stanford. I could tell right away that we were going to be great friends. To begin with, we both had identical matching plaid bedsheets. I guess both Mary and my mom shopped at the same stores. In any event our friendship took off from there and Ethan in fact became my best friend. We lived together through college and we traveled all over after graduation.</p>
+	<p class="firstPar">Ethan and I met during our freshman year in the dorms at Stanford. I could tell right away that we were going to be great friends. To begin with, we both had identical matching plaid bedsheets. I guess both Mary and my mom shopped at the same stores. In any event our friendship took off from there and Ethan in fact became my best friend. We lived together through college and we traveled all over after graduation.</p>
 	<p>Mary asked me to speak a bit about Ethan in the context of Stanford  and our time together as roommates and college students. So what I'm going to try to do is share some stories and memories about Ethan to remind you all of what you already know, which is that Ethan was a truly caring, compassionate and utterly brilliant individual.  When I tell stories about Ethan they sometimes sound almost like tall tales. His whole being seems extraordinary and that's really what it was. All of his friends knew it and we were completely in awe of it as much then as now. And in some ways I think Ethan also deep down knew that he was a bit extraordinary too. That's why when Ethan, Tina and I were traveling across Europe, in our travel blog, I would sign my name "Andy," Tina would sign her name "Tina" but Ethan, he would sign HIS name "Ethan!" with an exclamation point. That exclamation point captures the essence of Ethan. He lived his life with an exclamation point!</p>
 	<p>Ethan fundamentally cared about others. He was the guy who, if he heard you were having a bad day, or maybe just a rough quarter he would go out and do something about it, like maybe make a card or send you a photo or drop in just to say hi. But being Ethan, this wouldn't be  just any old card or photo. With Ethan, you would receive a 6ft by 10ft wall sized butcher paper Birthday card, or maybe a poster photomosaic composed of every photo ever taken of you. He would always work in something a little zany or larger than life to make you smile and realize that someone really cared. In talking with my classmates over the past few weeks I've heard variations of this story over and over again and it shows that Ethan truly had a unique ability of connecting with people and make them feel better.</p>
 	<p>In my experience, when things weren't going so well Ethan had a way of making the world a less scary and confusing.</p>
@@ -114,7 +115,7 @@ include("header.inc");
 
 
 <h2><a name="physics"></a>Stanford University Physics Department Graduation, 17 June 2007</h2>
-<p>Good afternoon. First of all, thank you so much to all of the family and friends that showed up today. Thank you as well to Professor Wojcicki, Professor Burchat and of course our amazing undergraduate administrator Elva, who from where I stand at least, appears to be running the entire show. And thanks also to the  entire Stanford physics department.</p>
+<p class="firstPar">Good afternoon. First of all, thank you so much to all of the family and friends that showed up today. Thank you as well to Professor Wojcicki, Professor Burchat and of course our amazing undergraduate administrator Elva, who from where I stand at least, appears to be running the entire show. And thanks also to the  entire Stanford physics department.</p>
 
 <p>
 I am quite honored to be standing here today. In fact, when I first received  the email from Elva that I had been chosen by my peers to give this speech, I was very much surprised. I never saw myself as the "typical" physics major. I certainly did not excel beyond my peers in my academics, nor did the subject of physics come particularly easily to me. Upper-level quantum mechanics, for example, was by far *the* greatest intellectual challenge of my entire life. But I have always enjoyed the challenge and the understanding that comes from physics and in particular, I love the feeling of looking back on an interesting problem and thinking to myself, "Wow! I actually understand that!" </p>

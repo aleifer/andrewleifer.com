@@ -17,6 +17,8 @@ creen, projection"><![endif]-->
 dia="screen, projection">
 
     <link rel="stylesheet" href="css/style.css" type="text/css" media="screen, projection">
+
+	<link rel="shortcut icon" href="/favicon.ico"/>	
   </head>
 <body>
 

@@ -3,8 +3,12 @@ $title="Research";
 include("header.inc");
 ?>
 
+<div class="span-24 last">
+	<h2>Coming Soon</h2>
+</div>
+
 <div class="span-16 append-1">
-<h2>Coming Soon</h2>
+...
 
 
 

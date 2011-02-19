@@ -2,8 +2,13 @@
 $title="Home";
 include("header.inc");
 ?>
+
+<div class="span-24 last">
+	<h2>Welcome</h2>
+</div>
+
 <div class="span-16 append-1">
-<h2>Welcome</h2>
+
 
 My name is Andrew Leifer and I graduated from <a href="http://www.stanford.edu">Stanford University</a> with degrees in Physics, Political Science and honors in International Security Studies.  I am currently a fourth year PhD candidate in the Biophysics program at <a href="http://www.harvard.edu">Harvard University</a>. I conduct behavioral neuorscience research in the <a href="http://worms.physics.harvard.edu">Samuel Lab</a> where I develop new optogenetic techniques to probe the neurocircuitry of the brain. Most everyone calls me Andy. 
 

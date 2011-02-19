@@ -2,24 +2,28 @@
 $title="Writings";
 include("header.inc");
 ?>
-<div class="span-16 append-1">
-<h2>Code</h2>
 
+<div class="span-24 last">
+	<h2>Code</h2>
+</div>
+
+<div class="span-16 append-1">
 <p>Code was meant to be shared!  I have written a number of pieces of software for research, profit or play. Here it all is free to download and modify under the <a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GNU GPL</a>.  Find me <a href="http://github.com/aleifer">on GitHub</a> or <a href="http://stackoverflow.com/users/200688/andyl#qpage_1-anpage_1-qsort_recent-ansort_votes">Stack Overflow</a>. 
 </p>
 
+<hr class="space">
 <h3>Scientific Software</h3>
 
 <h4><a href="http://github.com/samuellab/mindcontrol">MindControl</a></h4>
-<p>Closed-loop computer vision software suite to manipulate neural activity in a freely moving nematode. C. This is the software behind the <a href="http://colbert.physics.harvard.edu">CoLBeRT system</a>. See <a href="http://www.ncbi.nlm.nih.gov/pubmed/21240279">Leifer et al, "Optogenetic manipulation of neural activity in freely moving Caenorhabditis elegans," <i>Nature Methods</i>,2011, Feb 8 (2):147-152.</a></p>
+<p>Closed-loop computer vision software suite to manipulate neural activity in a freely moving nematode. C. This is the software behind the <a href="http://colbert.physics.harvard.edu">CoLBeRT system</a>. See Leifer et al, <a href="http://www.ncbi.nlm.nih.gov/pubmed/21240279">"Optogenetic manipulation of neural activity in freely moving Caenorhabditis elegans,"</a> <i>Nature Methods</i>, 2011, Feb 8 (2):147-152.</p>
 
 <h4><a href="http://github.com/samuellab/mindcontrol-access-utils">MindControl Access Utilities</a></h4>
 <p>MATLAB utilities to import YAML data files created by <a href="http://github.com/samuellab/mindcontrol">MindControl</a>.</p> 
 
-<h4><a href="https://github.com/samuellab/InterProcess">InterProcess</h4>
+<h4><a href="https://github.com/samuellab/InterProcess">InterProcess</a></h4>
 <p>A compact C library to share data between processes on Windows. Fast. Simple.</p>
 
-
+<hr class="space">
 <h3>Web Sites</h3>
 <h4><a href="http://github.com/aleifer/andrewleifer.com/">andrewleifer.com</a></h4>
 <p>Source for this website!</p>
@@ -28,7 +32,7 @@ include("header.inc");
 <p>Source for <a href="http://colbert.physics.harvard.edu">colbert.physics.harvard.edu</a>.</p>
 
 
-
+<hr class="space">
 <h3>InnoBox Devices</h3>
 <a href="http://innoboxdevices.com">InnoBox Devices</a> is a small venture with <a href="http://bemasc.net" target="_blank">Ben Schwartz</a> to sell plug-and-play wiki server hardware appliances for school or laboratory settings. 
 
@@ -39,9 +43,9 @@ include("header.inc");
 </div>
 
 <div class="span-7 last">
-	<a href="mindcontrol_screenshot_small.full">
+	<a href="images/mindcontrol_screenshot_small.full">
 		<div class="box">
-		<img src="mindcontrol_screenshot_small.png" width="222">
+		<img src="images/mindcontrol_screenshot_small.png" width="222">
 		<p><a href="http://github.com/samuellab/MindControl">MindControl</a> software suite for <i>C. elegans</i> optogenetic neuroscience research.</a>
 		</div>
 	</a>
