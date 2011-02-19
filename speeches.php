@@ -4,9 +4,10 @@ include("header.inc");
 ?>
 <div class="span-16 append-1">
 	
-	
+	<hr class="space">
 	<h2><a name="lowell2011"></a>A Beautiful Experiment, Lowell House Speech Project, 3 February 2011</h2>
-	<iframe src="http://player.vimeo.com/video/19551136?color=ff9933" width="400" height="225" frameborder="0"></iframe>
+	
+	<iframe class="video" src="http://player.vimeo.com/video/19551136?color=ff9933" width="400" height="225" frameborder="0"></iframe>
 	
 	
 	<p>Thank you all for coming and listening, and thank you especially to our student organizers and 
@@ -32,7 +33,7 @@ include("header.inc");
 	visual cues to determine how much we eat and when to stop.</p> 
 	
 	<p>This is fascinating because it says something about ourselves. But I get even more excited about 
-	it because it’s a brilliant example of experimental science!</p> 
+	it because it's a brilliant example of experimental science!</p> 
 	
 	<p>This experiment has all the right ingredients: It addressed head on the question at hand, namely 
 	can visual cues effect our eating? The evidence is direct and easy to quantify:  The group with 
@@ -73,7 +74,7 @@ include("header.inc");
 	<p>Even Harvard can use a little self-help from time to time. And I think this strikes at a bigger 
 	issue.</p>
 	
-	<p>It’s very easy to sit in a laboratory or a library and say..." a book about why eat more than we 
+	<p>It's very easy to sit in a laboratory or a library and say..." a book about why eat more than we 
 	think? Clearly that can't be science! That can't have academic merit!" But the truth is science 
 	and good scientific experimentation can be anywhere that someone takes the time and effort to 
 	carry them out. And it behooves us to keep an open mind and learn from exemplary work 
@@ -129,7 +130,7 @@ So in my brief time allotted here, I will first try to convey to you what its li
 
 <p>And its not that funny. In fact I still don't get it, though I have heard this same joke from physicists both before and since. But I will tell you a story that IS funny. </p>
 
-<p>One day a drawmate pops his head in the dorm and explains that he heard from his friend at UC Davis that cow tipping is all a myth. A single human is NOT  actually strong enough to physically tip a cow. My roommate, being a Stanford physics major is immiediatel intrigued. He gets out his pencil and paper and he starts making order-of-magnitude estimates about the force a human can lift, the  mass of the average cow and the height of a typical human. He starts drawing the force-body diagram, and he says "Ok.. so the first step"óyou can probably see where this is going---"is you approximate the cow as a sphere." At that point I fell off my chair laughing. </p>
+<p>One day a drawmate pops his head in the dorm and explains that he heard from his friend at UC Davis that cow tipping is all a myth. A single human is NOT  actually strong enough to physically tip a cow. My roommate, being a Stanford physics major is immiediatel intrigued. He gets out his pencil and paper and he starts making order-of-magnitude estimates about the force a human can lift, the  mass of the average cow and the height of a typical human. He starts drawing the force-body diagram, and he says "Ok.. so the first step"'oyou can probably see where this is going---"is you approximate the cow as a sphere." At that point I fell off my chair laughing. </p>
 
 <p>The cow story is important though. The physics majors here study this material because they love it and they make sure they have a good time along the way.</p>
 
@@ -163,7 +164,7 @@ So in my brief time allotted here, I will first try to convey to you what its li
 
 
 
-</div>
+
 
 
 
