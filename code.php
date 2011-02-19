@@ -5,7 +5,7 @@ include("header.inc");
 <div class="span-16 append-1">
 <h2>Code</h2>
 
-<p>Code was meant to be shared!  I have written a number of pieces of software for research, profit or play. Here it all is free to download and modify under the <a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GNU GPL</a>.  Find me <a href="http://github.com/aleifer">on GitHub</a>.
+<p>Code was meant to be shared!  I have written a number of pieces of software for research, profit or play. Here it all is free to download and modify under the <a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GNU GPL</a>.  Find me <a href="http://github.com/aleifer">on GitHub</a> or <a href="http://stackoverflow.com/users/200688/andyl#qpage_1-anpage_1-qsort_recent-ansort_votes">Stack Overflow</a>. 
 </p>
 
 <h3>Scientific Software</h3>
@@ -39,9 +39,10 @@ include("header.inc");
 </div>
 
 <div class="span-7 last">
-	<a href="http://github.com/samuellab/MindControl" target="_blank">
+	<a href="mindcontrol_screenshot_small.full">
 		<div class="box">
 		<img src="mindcontrol_screenshot_small.png" width="222">
+		<p><a href="http://github.com/samuellab/MindControl">MindControl</a> software suite for <i>C. elegans</i> optogenetic neuroscience research.</a>
 		</div>
 	</a>
 </div>
