@@ -11,8 +11,9 @@ include("header.inc");
 <li><a href="http://franziskagraf.com" target="_blank">Franziska Graf</a></li>
 <li><a href="http://bemasc.net/wordpress/" target="_blank">Ben Schwartz</a></li>
 <li><a href="http://www.cs.umd.edu/~schulman/" target="_blank">Aaron Schulman</a></li>
+<li><a href="http://people.seas.harvard.edu/~nsinha/" target="_blank">Naveen Sinha</a></li>
 <li><a href="http://www.benjamintseng.com/" target="_blank">Benjamin Tseng</a></li>
-<li><a href="http://www.saschaqian.com/" target="_blank">Sasch Qian</a></li>
+<li><a href="http://www.saschaqian.com/" target="_blank">Sascha Qian</a></li>
 <li><a href="http://www.ellenchu.com/" target="_blank">Ellen Chu</a></li>
 <li><a href="http://www.people.fas.harvard.edu/~wellerst/" target="_blank">Alex Wellerstein</a></li>
 <li><a href="http://ellenbales.net/" target="_blank">Ellen Bales</a></li>
