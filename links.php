@@ -11,7 +11,7 @@ include("header.inc");
 <li><a href="http://franziskagraf.com" target="_blank">Franziska Graf</a></li>
 <li><a href="http://bemasc.net/wordpress/" target="_blank">Ben Schwartz</a></li>
 <li><a href="http://thereflexhammer.blogspot.com/" target="_blank">The Reflex Hammer</a></li>
-<li><a hrer="http://www.quan-wen.com" target="_blank">Quan Wen</a></li>
+<li><a href="http://www.quan-wen.com" target="_blank">Quan Wen</a></li>
 <li><a href="http://www.cs.umd.edu/~schulman/" target="_blank">Aaron Schulman</a></li>
 <li><a href="http://www-stat.stanford.edu/~jbien/" target="_blank">Jacob Bien</a></l>
 <li><a href="http://people.seas.harvard.edu/~nsinha/" target="_blank">Naveen Sinha</a></li>
@@ -21,6 +21,7 @@ include("header.inc");
 <li><a href="http://www.people.fas.harvard.edu/~wellerst/" target="_blank">Alex Wellerstein</a></li>
 <li><a href="http://ellenbales.net/" target="_blank">Ellen Bales</a></li>
 <li><a href="http://gwbstr.com/" target="_blank">Graham Webster</a></li>
+<li><a href="http://www.stanford.edu/~wulsin/" target="_blank">iWells Wulsin</a></li>
 </ul>
 
 
