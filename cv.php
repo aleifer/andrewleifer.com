@@ -423,14 +423,14 @@ ul
 <div class=Section1>
 
 <p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:18.0pt'>A N D R E W      L E I F E R</span></b></p>
+style='font-size:18.0pt'>A N D R E W&nbsp;&nbsp;&nbsp;&nbsp;L E I F E R</span></b></p>
 
 <p class=MsoNormal align=center style='text-align:center'>Leifer@fas.harvard.edu</p>
 
 <p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
 
-<p class=MsoNormal align=center style='text-align:center'>Samuel Lab ·  Department
-of Physics · 17 Oxford St ·  Cambridge MA 02138  </p>
+<p class=MsoNormal align=center style='text-align:center'>Samuel Lab &middot; Department
+of Physics &middot; 17 Oxford St &middot; Cambridge MA 02138</p>
 
 <p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
 
@@ -445,59 +445,56 @@ MA. Ph.D., Biophysics expected August 2011.</p>
 CA. B.S. Physics, B.A. Political Science, Interdisciplinary Honors in
 International Security Studies, June 2007.</p>
 
-<p class=MsoNormal> </p>
-
 <p class=MsoNormal><span class=Resumelistthing><b>AWARDS</b></span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2008                Harvard University Certificate of Distinction in Teaching
+class=Resumelistthing>2008&nbsp;Harvard University Certificate of Distinction in Teaching
 </span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2007                Graduate Research Fellowship,
+class=Resumelistthing>2007&nbsp;Graduate Research Fellowship,
 National Science Foundation.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2006                Leonard M. Rieser Fellowship in
+class=Resumelistthing>2006&nbsp;Leonard M. Rieser Fellowship in
 Science Technology and Global Security<b>, </b>Bulletin of the Atomic
 Scientist.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2006                SPIE International Society for
+class=Resumelistthing>2006&nbsp;SPIE International Society for
 Optical Engineering Scholarship.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2006                AIP, Society of Physics Students,
+class=Resumelistthing>2006&nbsp;AIP, Society of Physics Students,
 Leadership Award.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2006                Summer Undergraduate Research
+class=Resumelistthing>2006&nbsp;Summer Undergraduate Research
 Fellowship<b>, </b>National Science Foundation, two-time recipient.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2006                Intern of the Year Award<b>,</b>
-Center for Science Technology and Security Policy.</span></p>
+class=Resumelistthing>2006&nbsp;Intern of the Year Award, Center for Science Technology and Security Policy.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2006                Harry Press Journalism Award.</span></p>
+class=Resumelistthing>2006&nbsp;Harry Press Journalism Award.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2006                National Association of Rocketry
+class=Resumelistthing>2006&nbsp;National Association of Rocketry
 Academic Scholarship four-time recipient.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2004                Boothe Prize for Excellence in
+class=Resumelistthing>2004&nbsp;Boothe Prize for Excellence in
 Writing.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2003                Robert C. Byrd Academic Merit
+class=Resumelistthing>2003&nbsp;Robert C. Byrd Academic Merit
 Scholarship.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2003                Dofflemyer Eagle Scout Scholarship<b>.</b></span></p>
+class=Resumelistthing>2003&nbsp;Dofflemyer Eagle Scout Scholarship<b>.</b></span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2003                Awards for the author's independent
+class=Resumelistthing>2003&nbsp;Awards for the author's independent
 research, <i>&quot;Fractals, Power-Laws and the Weibull Distribution:
 Mathematically Modeling Crumpled Paper.&quot;</i></span></p>
 
@@ -517,33 +514,26 @@ Place Team Project, Colorado Science and Engineering Fair.</span></p>
 Achievement in Education<b>, </b>Scientific American.</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2000                Golden State Governor's Scholarship,
+class=Resumelistthing>2000 &nbsp; Golden State Governor's Scholarship,
 State of California.</span></p>
-
-<p class=MsoNormal>&nbsp;</p>
 
 <h1>EMPLOYMENT</h1>
 
-<p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>7/09-Present    Resident
-Tutor / Senior Staff, Lowell House, Harvard College, Cambridge, MA.</p>
+<p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>7/09-Present &nbsp; Resident Tutor / Senior Staff, Lowell House, Harvard College, Cambridge, MA.</p>
 
 <p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>6-9/05,
 6-9/06 JILA, National Institute of Standards and Technology at University of
 Colorado, Boulder. </p>
 
-<p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>3/06 – 6/06      Center
-for Science Technology and Security Policy<b>, </b>American Association for the
+<p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>3/06-6/06&nbsp; Center for Science Technology and Security Policy<b>, </b>American Association for the
 Advancement of Science, Washington D.C. </p>
 
-<p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>9/05-6/07         Stanford
-Daily, Stanford CA.                      </p>
+<p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>9/05-6/07 &nbsp; Stanford Daily, Stanford CA.</p>
 
-<p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>6/04-9/04         Institute
-for Telecommunication Sciences at the National Telecommunications and
-Information Administration, Boulder, CO.      </p>
+<p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>6/04-9/04&nbsp; Institute for Telecommunication Sciences at the National Telecommunications and
+Information Administration, Boulder, CO.</p>
 
-<p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>6/03-9/03         National
-Institute of Standards and Technology, U.S. Department of Commerce, Boulder,
+<p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'>6/03-9/03 &nbsp; National Institute of Standards and Technology, U.S. Department of Commerce, Boulder,
 CO. </p>
 
 <p class=MsoNormal><b>&nbsp;</b></p>
@@ -551,8 +541,8 @@ CO. </p>
 <p class=MsoNormal><b>TEACHING </b></p>
 
 <p class=MsoNormal style='margin-left:73.5pt;text-indent:-73.0pt'><span
-class=Resumelistthing>Spring 2008     Teaching Fellow for Molecular Cellular
-Biology 199: “Statistical Thermodynamics for Quantitative Biology”, taught by
+class=Resumelistthing>Spring 2008 &nbsp; Teaching Fellow for Molecular Cellular
+Biology 199: "Statistical Thermodynamics for Quantitative Biology", taught by
 Professor Howard Berg. Harvard University, Cambridge, MA.</span></p>
 
 <p class=MsoNormal><b>&nbsp;</b></p>
@@ -591,8 +581,8 @@ style='font-family:"Times","serif"'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:26.0pt;text-indent:-26.0pt'><span
 style='font-family:"Times","serif"'>K.J. Coakley, D.S. Simons, A.M. Leifer.
-“Secondary Ion Mass Spectrometry Measurements of Isotopic Ratios: Correction
-for Time Varying Count Rate.” <i>International Journal of Mass Spectrometry</i>
+"Secondary Ion Mass Spectrometry Measurements of Isotopic Ratios: Correction
+for Time Varying Count Rate." <i>International Journal of Mass Spectrometry</i>
 204 (2005) 107-120. </span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><b>&nbsp;</b></p>
@@ -601,7 +591,7 @@ for Time Varying Count Rate.” <i>International Journal of Mass Spectrometry</i>
 
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
 class=Resumelistthing>Andrew M. Leifer, Christopher Fang-Yen, Aravinthan D. T.
-Samuel, “A remote control for the <i>C. elegans</i> nervous system,” American
+Samuel, "A remote control for the <i>C. elegans</i> nervous system," American
 Physical Society, <i>APS March Meeting 2010</i>, Portland, OR, March 15-19,
 2010.</span></p>
 
@@ -613,18 +603,18 @@ Physical Society, <i>APS March Meeting 2010</i>, Portland, OR, March 15-19,
 
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
 class=Resumelistthing>Andrew M. Leifer, Christopher Fang-Yen, Aravinthan D. T.
-Samuel, “Optogenetic manipulation of neural activity in freely moving <i>C.
-elegans</i>,” National Institute of Health, <i>NIH Director’s Pioneer Award
-Symposium</i>, Bethesda, MD, September 30 – October 1, 2010.</span></p>
+Samuel, "Optogenetic manipulation of neural activity in freely moving <i>C.
+elegans</i>," National Institute of Health, <i>NIH Director's Pioneer Award
+Symposium</i>, Bethesda, MD, September 30 - October 1, 2010.</span></p>
 
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
 style='font-family:"Times","serif"'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
 style='font-family:"Times","serif"'>Andrew M. Leifer, Christopher Fang-Yen,
-Marc Gershow, Aravinthan D. T. Samuel. “Spatiotemporal control of neural
-activity in freely behaving <i>C. elegans,</i>” <i>Neuronal Development,
-Synaptic Function &amp; Behavior, C. elegans meeting</i>, Madison, WI,  June
+Marc Gershow, Aravinthan D. T. Samuel. "Spatiotemporal control of neural
+activity in freely behaving <i>C. elegans,</i>" <i>Neuronal Development,
+Synaptic Function &amp; Behavior, C. elegans meeting</i>, Madison, WI, June
 27-30, 2010</span></p>
 
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
@@ -632,16 +622,16 @@ style='font-family:"Times","serif"'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
 style='font-family:"Times","serif"'>Andrew M. Leifer, Christopher Fang-Yen,
-Marc Gershow, Aravinthan D. T. Samuel. “Spatiotemporal control of neural
-activity in freely behaving <i>C. elegans,</i>” <i>Neuronal Circuits Meeting</i>,
-Cold Spring Harbor, NY,  March 10-13, 2010</span></p>
+Marc Gershow, Aravinthan D. T. Samuel. "Spatiotemporal control of neural
+activity in freely behaving <i>C. elegans,</i>" <i>Neuronal Circuits Meeting</i>,
+Cold Spring Harbor, NY, March 10-13, 2010</span></p>
 
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
 style='font-family:"Times","serif"'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
-style='font-family:"Times","serif"'>Andrew M. Leifer, William M. Shih, “Rigid
-Linear Nano-Actuator Self-Assembled from DNA.” <i>Biophysical Society 53<sup>rd</sup>
+style='font-family:"Times","serif"'>Andrew M. Leifer, William M. Shih, "Rigid
+Linear Nano-Actuator Self-Assembled from DNA." <i>Biophysical Society 53<sup>rd</sup>
 Annual Meeting, </i>Boston, MA, February 29- March 4, 2009.</span></p>
 
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
@@ -650,16 +640,16 @@ style='font-family:"Times","serif"'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
 style='font-family:"Times","serif"'>Tobi A Szuts, Bitaliy Fedeyv, Andrew
 Leifer, Wladyslaw Dabrowsky, Naoshige Uchida, Alan Litke, Markus Meister,
-“Wireless Recording from the Cortex of a Freely Roaming Rat.” <i>CoSyNe 09</i>.
-Salt Lake City, Utah.  Februay 27, 2009.</span></p>
+"Wireless Recording from the Cortex of a Freely Roaming Rat." <i>CoSyNe 09</i>.
+Salt Lake City, Utah. Februay 27, 2009.</span></p>
 
 <p class=MsoNormal style='margin-left:26.0pt;text-indent:-26.0pt'><span
 style='font-family:"Times","serif"'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:26.0pt;text-indent:-26.0pt'><span
 style='font-family:"Times","serif"'>Tobi Szuts, V Fadeyev, S Kachiguine, MI
-Grivich, A Sher, AM Leifer, N Uchida, AM Litcke, M Meister. “Wireless Recording
-from Freely Behaving Rat,” <i>Using In Vivo Physiology to Understand Neural
+Grivich, A Sher, AM Leifer, N Uchida, AM Litcke, M Meister. "Wireless Recording
+from Freely Behaving Rat," <i>Using In Vivo Physiology to Understand Neural
 Circuits in Genetic Systems</i>. Janelia Farm, Virginia. April 20 - 23, 2008</span></p>
 
 <p class=MsoNormal><span style='font-family:"Times","serif"'>&nbsp;</span></p>
@@ -667,7 +657,7 @@ Circuits in Genetic Systems</i>. Janelia Farm, Virginia. April 20 - 23, 2008</sp
 <p class=MsoNormal style='margin-left:26.0pt;text-indent:-26.0pt'><span
 style='font-family:"Times","serif"'>A. M. Leifer, D. G. Pothier, R. To.
 &quot;Fractals, Power-Laws and the Weibull Distribution: Mathematically
-Modeling Crumpled Paper.” <i>Intel International Science and Engineering Fair</i>.
+Modeling Crumpled Paper." <i>Intel International Science and Engineering Fair</i>.
 Cleveland, Ohio. May 15, 2003.</span></p>
 
 <p class=MsoNormal><span style='font-family:"Times","serif"'>&nbsp;</span></p>
@@ -677,18 +667,8 @@ style='font-family:"Times","serif"'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:26.0pt;text-indent:-26.0pt'><span
 style='font-family:"Times","serif"'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-left:27.0pt;text-indent:-27.0pt'><span
-class=Resumelistthing> </span></p>
-
-</div>
-
-
-
-</div>
-
-
-
+class=Resumelistthing></span></p></div></div>
 <?php
 include("footer.inc");
 ?>
