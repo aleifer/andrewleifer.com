@@ -450,8 +450,8 @@ International Security Studies, June 2007.</p>
 <p class=MsoNormal><span class=Resumelistthing><b>AWARDS</b></span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
-class=Resumelistthing>2008                Derek C. Bok Award for Excellence in
-Graduate Student Teaching of Undergraduates.</span></p>
+class=Resumelistthing>2008                Harvard University Certificate of Distinction in Teaching
+</span></p>
 
 <p class=MsoNormal style='margin-left:1.0in;text-indent:-71.0pt'><span
 class=Resumelistthing>2007                Graduate Research Fellowship,
