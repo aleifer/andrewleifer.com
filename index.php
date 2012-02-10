@@ -10,9 +10,7 @@ include("header.inc");
 <div class="span-16 append-1">
 
 
-My name is Andrew Leifer and I graduated from <a href="http://www.stanford.edu">Stanford University</a> with degrees in Physics, Political Science and honors in International Security Studies.  I am currently a fourth year PhD candidate in the Biophysics program at <a href="http://www.harvard.edu">Harvard University</a>. I conduct behavioral neuorscience research in the <a href="http://worms.physics.harvard.edu">Samuel Lab</a> where I develop new optogenetic techniques to probe the neurocircuitry of the brain. Most everyone calls me Andy. 
-
-This website serves as a repository for my research,  writings and works. Feel free to contact me at:
+My name is Andrew Leifer and I graduated from <a href="http://www.stanford.edu">Stanford University</a> with degrees in Physics, Political Science and honors in International Security Studies.  I recently defended my doctoral thesis in Biophysics at <a href="http://www.harvard.edu">Harvard University</a>. I conduct behavioral neuorscience research in the <a href="http://worms.physics.harvard.edu">Samuel Lab</a> where I develop new optogenetic techniques to probe the neurocircuitry of the brain. Most everyone calls me Andy. Feel free to contact me at:
 <a href="mailto:leifer@fas.harvard.edu">leifer@fas.harvard.edu</a>
 
 <hr class="space">
